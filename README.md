@@ -5,7 +5,8 @@
 ### Very stupid.
 
 ```python
-
-print("Very stupid")  # Very very stupid
+def very_stupid:
+  """very stupid."""
+  print("Stupid")  # Very very stupid
 
 ```
